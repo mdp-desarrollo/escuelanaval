@@ -1,0 +1,5 @@
+1.01
+- limit dump of non-unique keys to MySQL dumps
+
+1.00
+- upload GreenLight SQLTool to Hotscripts
